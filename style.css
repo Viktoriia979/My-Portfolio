@@ -1,0 +1,35 @@
+body {
+    font-family: sans-serif;
+}
+
+a:hover{
+    color:rgb(205, 62, 86);
+
+}
+
+a:visited{
+    color: blueviolet;
+}
+
+
+h1{
+    text-decoration: underline;
+}
+
+header {
+    background-color: rgb(194, 194, 226);
+    height: 40px;
+}
+
+header a{
+    font-size: 25px;
+}
+
+footer{
+    background-color:  rgb(194, 194, 226);
+}
+
+main img{
+    height: 250px;
+    width: 350px;
+}
